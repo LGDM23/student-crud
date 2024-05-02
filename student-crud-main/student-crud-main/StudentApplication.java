@@ -1,10 +1,9 @@
 public class StudentApplication {
     public static void main(String[] args) {
         // Create a new student object
-        Student student = new Student("Lou Guerrig Mendoza", 21, "IT");
-        Student student = new Student("Kyle Evangelista", 21, "CPE");
-        Student student = new Student("Adrian SaGum", 21, "IT");
-        Student student = new Student("Carl Mendoza", 21, "IT");
+        Student student = new Student("Dodong Cruz", 21, "CPE");
+        Student student = new Student("Rico Blanco", 21, "IT");
+        Student student = new Student("Raymond Marasigan", 21, "IT");
 
         // Display student information
         System.out.println("Student Name: " + student.getName());
